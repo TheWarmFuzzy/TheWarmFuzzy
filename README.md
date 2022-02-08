@@ -1,6 +1,4 @@
-### Hi there 👋
-
-| [![General Stats](https://github-readme-stats.vercel.app/api?username=thewarmfuzzy&show_icons=true&hide_rank=false&count_private=true&hide_border=true)] | [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thewarmfuzzy)] |
+![General Stats](https://github-readme-stats.vercel.app/api?username=thewarmfuzzy&show_icons=true&hide_rank=false&count_private=true&hide_border=true) ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thewarmfuzzy&hide_border=true&langs_count=3)
 
 <!--
 **TheWarmFuzzy/TheWarmFuzzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
