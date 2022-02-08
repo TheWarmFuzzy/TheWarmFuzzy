@@ -1,11 +1,11 @@
-<p>
+<p align="center">
     <!-- General Stats -->
     <span>
-        <img src="https://github-readme-stats.vercel.app/api?username=thewarmfuzzy&show_icons=true&hide_rank=false&count_private=true&hide_border=true">
+        <img src="https://github-readme-stats.vercel.app/api?username=thewarmfuzzy&show_icons=true&hide_rank=false&count_private=true&hide_border=true&hide_title=true">
     </span>
     <!-- Languages -->
     <span>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thewarmfuzzy&hide_border=true&langs_count=3">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thewarmfuzzy&hide_border=true&langs_count=3&hide_title=true">
     </span>
 </p>
 
